@@ -1,5 +1,7 @@
 # 🌟 100-GitHub-Projects-That-Defined-2025 - Discover the Best Open Source Tools
 
+[![SafeSkill 90/100](https://img.shields.io/badge/SafeSkill-90%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/mitsou55-100-github-projects-that-defined-2025)
+
 ## 🚀 Getting Started
 
 Welcome to the "100-GitHub-Projects-That-Defined-2025" repository! This project showcases a selection of top open-source tools that have made a significant impact in the tech landscape of 2025. These tools span various fields, including AI, Kubernetes, and much more. If you want to improve your workflows or explore exciting technology, you’re in the right place.
